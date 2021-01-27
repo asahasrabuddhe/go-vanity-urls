@@ -1,0 +1,3 @@
+runtime: go115
+main: ./cmd/go-vanity-urls
+service: go-vanity-urls
