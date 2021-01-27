@@ -1,0 +1,6 @@
+host: go.example.com
+cache_max_age: 86400
+paths:
+  /router:
+    repo: https://github.com/example/package
+    branch: master
